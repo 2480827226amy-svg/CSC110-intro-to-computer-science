@@ -1,0 +1,8 @@
+# ------------------------------------------------------
+#        Name: Amy Tang
+#       Peers: N/A
+#  References: N/A
+# ------------------------------------------------------
+A1.The return type for funnyPrint is None, which means the function does not return anything. Instead, it only do the action of adding three "*" at the start and end of the sentence. 
+A2. funnyReturn returns a string that stores in the computer, while funnyPrint directly prints out the result without storing it.
+A3. print(print.__doc__) prints directly the results of the function. print(sphereVolume.__doc__) prints out the docstring of the sphereVolume function. 
